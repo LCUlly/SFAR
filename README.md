@@ -15,7 +15,7 @@ Program code of  regularization  and techniques: Including the S-FAR Methods, De
 
 3. <**thresholding**> folder
 
->There is code for the debiased S-FAR method with \theta =0.9, 1.5, 1.99, debiased  Landweber method. We provide a 1-dimensional example (see Example 1(4) in our paper) and a 2-dimensional example (see Example 3(3) in our paper).
+>There is code for the thresholded S-FAR method with \theta =0.9, 1.5, 1.99, thresholded  Landweber method and thresholded CG method. We provide a 1-dimensional example (see Example 1(4) in our paper) and a 2-dimensional example (see Example 3(3) in our paper).
 >Please run <generate_noise.m> first, then <test_many.m>, and finally <plt.m>  for any example.
 
 
